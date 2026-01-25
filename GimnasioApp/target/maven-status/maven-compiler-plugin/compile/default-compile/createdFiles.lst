@@ -1,0 +1,14 @@
+com\gimnasio\dao\ActividadDAO.class
+com\gimnasio\service\ActividadService.class
+com\gimnasio\util\HibernateUtil.class
+com\gimnasio\service\ReservaService.class
+com\gimnasio\dao\EntrenadorDAO.class
+com\gimnasio\entity\Actividad.class
+com\gimnasio\service\EntrenadorService.class
+com\gimnasio\entity\Miembro.class
+com\gimnasio\entity\Reserva.class
+com\gimnasio\service\MiembroService.class
+com\gimnasio\app\GimnasioApp.class
+com\gimnasio\dao\ReservaDAO.class
+com\gimnasio\entity\Entrenador.class
+com\gimnasio\dao\MiembroDAO.class
